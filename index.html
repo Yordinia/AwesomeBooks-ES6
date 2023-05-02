@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="index.css" rel="stylesheet">
+    <script defer src="index.js" type='module'></script>
+    <link rel="stylesheet" href="index.css">
+    <link
+      rel="stylesheet"
+      href="https://bootswatch.com/5/sketchy/bootstrap.min.css"
+    />
+    <title>Awesome-Books</title>
+  </head>
+  <body>
+    <header>
+      <nav class="navbar">
+        <h2 class="tag">Awesome Books</h2>
+        <ul class="top-menu">
+          <li class="listNav active">List</li>
+          <li class="addNav">Add new</li>
+          <li class="contactNav">Contact</li>
+        </ul>
+      </nav>
+      <div class="date"></div>
+    </header>
+
+    <main>
+      <section class="for-list">
+        <h1>All awesome books</h1>
+        <table class="books table table-striped">
+          <tbody id="book-list"></tbody>
+        </table>
+      </section>
+      <section class="for-add">
+        <h1>Add a new book</h1>
+        <form>
+          <input type="text" placeholder="Title" class="title" /><br /><br />
+          <input type="text" placeholder="Author" class="author" /><br /><br />
+          <button type="submit" class="Button btn btn-outline-primary">
+            Add
+          </button>
+        </form>
+      </section>
+      <section class="for-contact">
+        <h1>Contact information</h1>
+        <p>
+          Do you have any Questions or you just want to say "Hello" You can
+          reach out to us!
+        </p>
+        <ul>
+          <li>Our email address is: yorditjordin@gmail.com</li>
+          <li>Our phone number is : 0XXXXXXX</li>
+          <li>Our address is : Addis Ababa, Ethiopia</li>
+        </ul>
+      </section>
+    </main>
+    <footer>
+      <p>©️microverse 2022, Awesome Books | All Rights Reserved</p>
+    </footer>
+  </body>
+</html>

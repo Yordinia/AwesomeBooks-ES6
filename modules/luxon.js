@@ -1,3 +1,28 @@
+/* eslint-disable no-loop-func */
+/* eslint-disable no-continue */
+/* eslint-disable object-curly-newline */
+/* eslint-disable no-underscore-dangle */
+/* eslint-disable prefer-rest-params */
+/* eslint-disable guard-for-in */
+/* eslint-disable no-useless-escape */
+/* eslint-disable operator-linebreak */
+/* eslint-disable comma-dangle */
+/* eslint-disable implicit-arrow-linebreak */
+/* eslint-disable no-confusing-arrow */
+/* eslint-disable indent */
+/* eslint-disable no-restricted-syntax */
+/* eslint-disable no-nested-ternary */
+/* eslint-disable default-case */
+/* eslint-disable no-plusplus */
+/* eslint-disable prefer-const */
+/* eslint-disable no-restricted-globals */
+/* eslint-disable no-use-before-define */
+/* eslint-disable quotes */
+/* eslint-disable no-unused-vars */
+/* eslint-disable max-len */
+/* eslint-disable class-methods-use-this */
+/* eslint-disable max-classes-per-file */
+
 /**
  * @private
  */

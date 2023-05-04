@@ -11,7 +11,6 @@
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
-  - [Deployment](#triangular_flag_on_post-deployment)
 - [👥 Authors](#authors)
 - [Future Features](#future-features)
 - [🤝 Contributing](#contributing)
@@ -87,16 +86,6 @@ Clone this repository to your desired folder:
   git clone https://github.com/yordinia/AwesomeBooks-ES6.git
 ```
 
-
-
-### Deployment
-
-You can deploy this project using 
-> [Github Pages](https://yordinia/github.io/AwesomeBooks-es6)
-
-> [github html preview](https://htmlpreview.github.io/) and paste index adress into it to view.
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -126,7 +115,7 @@ __Yordanos Temesgen__
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/Yordinia/AwesomeBooks-ES6/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
